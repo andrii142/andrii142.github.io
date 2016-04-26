@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://andrii142.github.io
+title: MakingCode
+email: a_mudr@mail.ru
+author: andrii142
+description: My awesome new site
+paginate: 3
+google_analytics: 
